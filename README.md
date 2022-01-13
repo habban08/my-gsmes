@@ -1,2 +1,1 @@
-# my-gsmes
-njwds
+# C34_template_code
